@@ -7,5 +7,5 @@ Using unsupervised learning methods like clustering and dimensionality reduction
 Project 2 - Classification:
 Fault detection with geospatial imagery and supervised classification.
 
-Project 3:
+Project 3 - Regression:
 Time series analysis using supervised regression on stream gauge data.
