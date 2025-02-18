@@ -2,3 +2,19 @@ Microscopy Image:
 Link - https://www.mindat.org/photo-1290155.html
 Minerals - Clinochlore, Biotite, Muscovite
 Location - Erongo Region, Namibia
+
+Magnetic Imagery:
+Link - https://mrdata.usgs.gov/magnetic/
+Location - State of Texas
+
+NDVI Imagery:
+Link - https://earthexplorer.usgs.gov/
+Location - Madera, CA
+Time - April 8th, 2024
+Satellite - Landsat bands 4 and 5
+
+TIR Imagery:
+Link - https://earthexplorer.usgs.gov/
+Location - Kilauea, HI
+Time - Jan 1st, 2025
+Satellite - Landsat band 10
