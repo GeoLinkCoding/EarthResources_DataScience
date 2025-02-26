@@ -18,3 +18,7 @@ Link - https://earthexplorer.usgs.gov/
 Location - Kilauea, HI
 Time - Jan 1st, 2025
 Satellite - Landsat band 10
+
+Fossil Image:
+Link - http://www.fossilmuseum.net/Trilobite-Pictures/Utah/Coosella/Coosella7.htm
+Fossil - Class Trilobita
