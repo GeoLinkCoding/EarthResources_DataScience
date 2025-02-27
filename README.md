@@ -8,4 +8,4 @@ Project 2 - Classification:
 Fault detection with geospatial imagery and supervised classification.
 
 Project 3 - Regression:
-Time series analysis using supervised regression on stream gauge data.
+Discharge prediction from upstream sites using regression.
