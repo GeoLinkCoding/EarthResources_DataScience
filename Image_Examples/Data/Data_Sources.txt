@@ -1,7 +1,7 @@
-Microscopy Image:
-Link - https://www.mindat.org/photo-1290155.html
-Minerals - Clinochlore, Biotite, Muscovite
-Location - Erongo Region, Namibia
+Goethite Image:
+Link - https://www.mindat.org/photo-1411863.html
+Minerals - Goethite, Quartz
+Location - Viseu, Portugal
 
 Magnetic Imagery:
 Link - https://mrdata.usgs.gov/magnetic/
