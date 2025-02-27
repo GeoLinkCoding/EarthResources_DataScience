@@ -7,11 +7,11 @@ Magnetic Imagery:
 Link - https://mrdata.usgs.gov/magnetic/
 Location - State of Texas
 
-NDVI Imagery:
+Salt Flats Imagery:
 Link - https://earthexplorer.usgs.gov/
-Location - Madera, CA
-Time - April 8th, 2024
-Satellite - Landsat bands 4 and 5
+Location - Uyuni Salt Flat, Bolivia
+Time - December 14, 2024
+Satellite - Landsat band 7
 
 TIR Imagery:
 Link - https://earthexplorer.usgs.gov/
